@@ -1,0 +1,133 @@
+.nav {
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  background-color: yellow;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.nav li a{
+  display:block;
+  color: darkorange;
+  text-align:center;
+  padding: 15px 17px;
+  font-family: 'Anton', sans-serif;
+}
+
+.active{
+  background-color:darkgray;
+}
+
+.winterbreakimg{
+  width:320px; 
+  height:450px;
+}
+
+.winterbreakimg1{
+  width:450px; 
+  height:300px;
+}
+
+.wintertext{
+  font-family: 'Anton', sans-serif;
+}
+
+.projecttext{
+  font-family: 'Anton', sans-serif;
+}
+
+.projectimg{
+  width:700px; 
+  height:300px;
+}
+
+.projectimg1{
+  width:800px; 
+  height:400px;
+}
+
+.projectimg2{
+  width:900px; 
+  height:500px;
+}
+
+.maincategory{ 
+  font-family: 'Kaushan Script', cursive;
+  font-size: 1.7em;
+  margin-top: 0.9em;
+}
+
+.maincategory_winter{
+  font-family: 'Bad Script', cursive;
+  font-size: 20px;
+}
+
+.maincategory_project{
+  font-family: 'Tilt Neon', cursive;
+  font-size: 20px;
+}
+
+.wintertitle{
+  font-family: 'Rampart One', cursive;
+  font-size: 40px;
+  text-align:center;
+}
+
+.projecttitle{
+  font-family: 'Bungee Inline', cursive;
+  font-size: 36px;
+  text-align:center;
+}
+
+body{
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+
+#body_index{
+  background-color: #EAECEE;
+  font-size: 1.1em; 
+}
+
+#body_winter{
+  background-color: #F4F6F7;
+  font-size: 1em;
+}
+
+#body_project{
+  font-size: 1.1em;
+}
+
+h1{
+  font-family: 'Anton', sans-serif;
+  text-align: center;  
+}
+
+p li{
+  margin-bottom: 0.5em;
+}
+
+h3{
+  color: red;
+}
+
+iframe{
+  border-width: 0px;
+}
+
+.Taiwanimg{
+  width:540px;
+  height:350px;
+}
+
+#map {
+  height: 500px;
+  position: relative;
+  width: 800px;
+  border: 4px solid red;
+  border-radius: 10px;
+  margin: auto;
+}
