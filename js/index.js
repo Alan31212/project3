@@ -10,10 +10,10 @@ function initMap() {
   var addCircle = new google.maps.Circle({
     center: { lat: 25.034436, lng: 121.564066 },
     radius:100,
-    strokeColor: "#red",
+    strokeColor: "red",
     strokeOpacity: 0.8,
     strokeWeight: 2,
-    fillColor: "#red",
+    fillColor: "red",
     fillOpacity: 0.5,
     map: map,
   });

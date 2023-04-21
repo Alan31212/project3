@@ -14,6 +14,7 @@
   text-align:center;
   padding: 15px 17px;
   font-family: 'Anton', sans-serif;
+  text-decoration: none;
 }
 
 .active{
@@ -94,10 +95,14 @@ body{
 
 #body_winter{
   background-color: #F4F6F7;
-  font-size: 1em;
+  font-size: 1.1em;
 }
 
 #body_project{
+  font-size: 1.1em;
+}
+
+#body_map{
   font-size: 1.1em;
 }
 
