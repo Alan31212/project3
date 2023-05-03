@@ -177,7 +177,7 @@ iframe{
     padding: 10px;
   }
   
-  li {
-    line-height: 1.5;
-  }
+  body {
+    font-size: 16px;
+  }
 }
